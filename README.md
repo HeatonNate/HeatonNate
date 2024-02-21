@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+### I am currently a student at Frederick Community College studying computer engineering!
+### I will be using this account to develop personal projects along with class assigned projects, ask me about anything.
 
 <!--
 **HeatonNate/HeatonNate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
